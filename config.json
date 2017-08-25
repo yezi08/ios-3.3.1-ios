@@ -11,7 +11,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "847204461162",
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://ice.xjtlu.edu.cn",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": ""
