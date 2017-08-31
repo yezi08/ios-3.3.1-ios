@@ -65724,7 +65724,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "847204461162",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://ice.xjtlu.edu.cn",
+    "siteurl": "http://ice.xjtlu.edu.cn",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": ""

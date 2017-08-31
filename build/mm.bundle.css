@@ -14403,7 +14403,7 @@ ion-side-menu li .item, ion-side-menu .mm-sidemenu-menu ul .item-divider, ion-si
 }
 
 #mm-side-menu-left{
-	background-image:url(http://10.7.84.31/local/mobile/pix/menu.png);
+	background-image:url(../img/menu.png);
 	background-size: auto 100%;
 }
 
@@ -14417,7 +14417,7 @@ ion-side-menu li .item:hover{
 
 /*"timeline courses bar"*/
 .scroll-content .tabs-striped{
-	background-image:url(http://10.7.84.31/local/mobile/pix/bar.png);
+	background-image:url(../img/bar.png);
 	background-size: 100% auto;
 }
 
@@ -14444,6 +14444,6 @@ progress[value]::-webkit-progress-value {
 }
 
 .mm-mm_login_credentials{
-	background-image:url(http://10.7.84.31/local/mobile/pix/campus.png);
+	background-image:url(../img/campus.png);
 	background-size: 100% auto;
 }
