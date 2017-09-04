@@ -6979,7 +6979,7 @@ angular.module('mm.core')
 
 // START: XJTLU ADDITION 03/Aug/2016,  change help link
 //            var docsurl = 'https://docs.moodle.org/en/' + page;
-            var docsurl = 'http://ice.xjtlu.edu.cn/course/view.php?id=55' + page;
+            var docsurl = 'http://ice.xjtlu.edu.cn/course/view.php?id=78' + page;
 // END: XJTLU ADDITION 03/Aug/2016
 
             if (typeof release != 'undefined') {

@@ -14403,7 +14403,7 @@ ion-side-menu li .item, ion-side-menu .mm-sidemenu-menu ul .item-divider, ion-si
 }
 
 #mm-side-menu-left{
-	background-image:url(../img/menu.png);
+	background-image:url(../img/xjtlu.png);
 	background-size: auto 100%;
 }
 
@@ -14413,12 +14413,6 @@ ion-side-menu li .item, ion-side-menu .mm-sidemenu-menu ul .item-divider, ion-si
 
 ion-side-menu li .item:hover{
 	background:rgba(0,0,0,0.4);
-}
-
-/*"timeline courses bar"*/
-.scroll-content .tabs-striped{
-	background-image:url(../img/bar.png);
-	background-size: 100% auto;
 }
 
 .bar-header .secondary-buttons .ion-plus{
@@ -14444,6 +14438,6 @@ progress[value]::-webkit-progress-value {
 }
 
 .mm-mm_login_credentials{
-	background-image:url(../img/campus.png);
+	background-image:url(../img/xjtlu.png);
 	background-size: 100% auto;
 }
