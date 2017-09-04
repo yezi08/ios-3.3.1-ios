@@ -14393,7 +14393,7 @@ ion-popover-view {
 /**XJTLU addition: css changes*/
 
 .bar-header{
-	background-color:#61B3EA;
+	background-color:#c61B3EA;
 }
 
 ion-side-menu li .item, ion-side-menu .mm-sidemenu-menu ul .item-divider, ion-side-menu .bar-header{
@@ -14404,7 +14404,7 @@ ion-side-menu li .item, ion-side-menu .mm-sidemenu-menu ul .item-divider, ion-si
 
 #mm-side-menu-left{
 	background-image:url(../img/xjtlu.png);
-	background-size: auto 100%;
+	background-size: 100% auto;
 }
 
 .ion-ionic, .ion-home, .ion-stats-bars, .ion-ios-bell, .ion-chatbox, .ion-calendar, .ion-earth, .ion-help-buoy, .ion-gear-b, .ion-log-out{
