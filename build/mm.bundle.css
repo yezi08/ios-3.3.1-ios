@@ -14407,7 +14407,10 @@ ion-side-menu li .item, ion-side-menu .mm-sidemenu-menu ul .item-divider, ion-si
 	background-size: 100% auto;
 }
 
-.ion-ionic, .ion-home, .ion-stats-bars, .ion-ios-bell, .ion-chatbox, .ion-calendar, .ion-earth, .ion-help-buoy, .ion-gear-b, .ion-log-out{
+.mm-sidemenu-menu .ion-ionic, .mm-sidemenu-menu .ion-home, .mm-sidemenu-menu .ion-stats-bars, 
+.mm-sidemenu-menu .ion-ios-bell, .mm-sidemenu-menu .ion-chatbox, .mm-sidemenu-menu .ion-calendar, 
+.mm-sidemenu-menu .ion-earth, .mm-sidemenu-menu .ion-help-buoy, .mm-sidemenu-menu .ion-gear-b, 
+.mm-sidemenu-menu .ion-log-out{
 	color:white !important;
 }
 
