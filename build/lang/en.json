@@ -558,7 +558,7 @@
     "mm.login.authenticating": "Authenticating",
     "mm.login.cancel": "Cancel",
     "mm.login.checksiteversion": "Check that your site uses Moodle 2.4 or later.",
-    "mm.login.confirmdeletesite": "Are you sure you want to delete the site {{sitename}}?",
+    "mm.login.confirmdeletesite": "Are you sure you want to log out the site {{sitename}}?",
     "mm.login.connect": "Connect!",
     "mm.login.connecttomoodle": "Connect to Moodle",
     "mm.login.contactyouradministrator": "Contact your site administrator for further help.",
