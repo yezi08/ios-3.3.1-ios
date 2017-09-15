@@ -65716,7 +65716,7 @@ angular.module('mm.core')
     "appname": "ICE @ XJTLU",
     "desktopappname": "Moodle Desktop",
     "versioncode" : "2019",
-    "versionname" : "3.0",
+    "versionname" : "3.0.1",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
     "languages": {"en": "English"},
